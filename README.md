@@ -68,6 +68,8 @@
 | Turkish Image Captioning | BLIP3o çevirisi, 1M+ | 921+ | [HF](https://huggingface.co/datasets/ituperceptron/image-captioning-turkish) |
 | Turkish Image VQA | Görsel soru-cevap | 568+ | [HF](https://huggingface.co/datasets/ituperceptron/image-vqa-turkish) |
 
+> ✏️ Eksik dataset görürsen çekinme, kendi datasetini oluşturup ekleyebilirsin. Büyük veriler küçük adımlarla başlar.
+
 ---
 
 ## Türkçe NLP & AI Modelleri
@@ -217,6 +219,7 @@
 | **SplitWire-Turkey** | İnternet kısıt aşma aracı | ⭐568 | [GitHub](https://github.com/SplitWire-Turkey) |
 | **Tasarım Desenleri** | Çoklu dilde tasarım desenleri (Türkçe) | ⭐3346 | [GitHub](https://github.com/tasarim-desenleri-turkce-kaynak) |
 | **TurkishNLP** | İTÜ Türkçe NLP pipeline'ı | ⭐300+ | [GitHub](https://github.com/olcaytaner/TurkishNLP) |
+| **Alican Kiraz** | Türkçe LLM'ler: Mihenk (finans), Kızagan (reasoning), Omni | - | [HF](https://huggingface.co/AlicanKiraz0) |
 | **Tengra** | Cross-platform AI workspace | ⭐8 | [GitHub](https://github.com/TengraStudio/tengra) |
 | **xfilter** | X.com onaylı hesap filtreleme eklentisi | - | [GitHub](https://github.com/alztrk/xfilter) |
 
@@ -282,3 +285,5 @@ Bu liste herkese açıktır. Eklemek istediğiniz kaynaklar varsa PR gönderin v
 ## Lisans
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+> x270F Eksik datasetleri gorunce cekinme - kendi datasetini olusturup ekleyebilirsin. Bu veri seti benim tarafimdan olusturulmustur.

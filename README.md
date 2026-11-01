@@ -215,6 +215,7 @@
 | **KIP** | Türkçe gramer tabanlı programlama dili | ⭐882 | [GitHub](https://github.com/kip) |
 | **BorsaPy** | Türkiye finans piyasaları Python kütüphanesi | ⭐660 | [GitHub](https://github.com/borsapy) |
 | **Borsa MCP** | BIST + ABD borsa verileri MCP sunucusu | ⭐601 | [GitHub](https://github.com/borsa-mcp) |
+| **ihalent** | Türk kamu ihale sonuç istihbaratı: EKAP sonuç ilanlarından firma geçmişi, kırım dağılımı ve rekabet metrikleri (CLI + MCP) | - | [GitHub](https://github.com/gulmezeren2-byte/ihalent) |
 | **Turkish BERT** | DBMDZ Türkçe BERT modelleri | ⭐576 | [GitHub](https://github.com/turkish-bert) |
 | **SplitWire-Turkey** | İnternet kısıt aşma aracı | ⭐568 | [GitHub](https://github.com/SplitWire-Turkey) |
 | **Tasarım Desenleri** | Çoklu dilde tasarım desenleri (Türkçe) | ⭐3346 | [GitHub](https://github.com/tasarim-desenleri-turkce-kaynak) |

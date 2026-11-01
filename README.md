@@ -9,16 +9,16 @@
 ## İçindekiler
 
 - [Türkçe Datasetler (HuggingFace)](#türkçe-datasetler-huggingface)
-- [Türkçe NLP & AI Modelleri](#türkçe-nlp--ai-modelleri)
+- [Türkçe NLP & AI Modelleri](#türkçe-nlp-ai-modelleri)
 - [Türkçe LLM'ler](#türkçe-llmler)
 - [Türkçe Yazılım Kaynakları](#türkçe-yazılım-kaynakları)
 - [Türk Geliştirici Toplulukları](#türk-geliştirici-toplulukları)
-- [Blog & Podcast & YouTube](#blog--podcast--youtube)
-- [İş & Kariyer](#iş--kariyer)
+- [Blog & Podcast & YouTube](#blog-podcast-youtube)
+- [İş & Kariyer](#iş-kariyer)
 - [Açık Kaynak Projeler](#açık-kaynak-projeler)
-- [Türkçe Kütüphaneler & Araçlar](#türkçe-kütüphaneler--araçlar)
-- [Finans & Ekonomi Araçları](#finans--ekonomi-aracları)
-- [Eğitim & Kurslar](#eğitim--kurslar)
+- [Türkçe Kütüphaneler & Araçlar](#türkçe-kütüphaneler-araçlar)
+- [Finans & Ekonomi Araçları](#finans-ekonomi-araçları)
+- [Eğitim & Kurslar](#eğitim-kurslar)
 - [Türkçe Dokümantasyon Çevirileri](#türkçe-dokümantasyon-çevirileri)
 - [Katkıda Bulunma](#katkıda-bulunma)
 
@@ -150,7 +150,7 @@
 | Tasarım Desenleri (Türkçe) | Çoklu dilde tasarım desenleri | ⭐3346 | [GitHub](https://github.com/yusufyilmazfr/tasarim-desenleri-turkce-kaynak) |
 | React Türkçe Kaynak | React.js Türkçe öğrenme kaynağı | ⭐689 | [GitHub](https://github.com/orcuntuna/react-turkce-kaynak) |
 | Python Notlarım | Türkçe Python ders notları | ⭐373 | [GitHub](https://github.com/fuatbeser/python-notlarim) |
-| Python Belgeleri | YazBel Türkçe Python dokümantasyonu | ⭐551 | [GitHub](https://github.com/python) |
+| Python Belgeleri | YazBel Türkçe Python dokümantasyonu | ⭐551 | [GitHub](https://github.com/yazbel/python) |
 | Flutter Full Learn | Sıfırdan Flutter (Türkçe video) | ⭐303 | [GitHub](https://github.com/VB10/Flutter-Full-Learn) |
 | KIP Programlama Dili | Türkçe gramer tabanlı programlama dili | ⭐882 | [GitHub](https://github.com/kip) |
 | Jargon.ist | Bilgisayar bilimleri jargon sözlüğü | ⭐300 | [GitHub](https://github.com/jargonist/jargon.ist) |
@@ -257,9 +257,9 @@
 
 | Proje | Açıklama | ⭐ | Link |
 |---|---|---|---|
-| **React Türkçe Çeviri** | React dokümantasyon çevirisi | ⭐541 | [GitHub](https://github.com/react) |
+| **React Türkçe Çeviri** | React dokümantasyon çevirisi | ⭐541 | [GitHub](https://github.com/reactjs/tr.react.dev) |
 | **JavaScript.info Türkçe** | Modern JavaScript Tutorial | ⭐365 | [GitHub](https://github.com/javascript-tutorial/tr.javascript.info) |
-| **Python Belgeleri** | YazBel Python dokümantasyonu | ⭐551 | [GitHub](https://github.com/python) |
+| **Python Belgeleri** | YazBel Python dokümantasyonu | ⭐551 | [GitHub](https://github.com/yazbel/python) |
 
 ---
 

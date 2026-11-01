@@ -146,14 +146,14 @@
 
 | Kaynak | Açıklama | ⭐ | Link |
 |---|---|---|---|
-| Türkçe Kaynaklar | Özenle seçilmiş Türkçe kaynaklar listesi | ⭐2522 | [GitHub](https://github.com/turkcekaynaklar-com) |
-| Tasarım Desenleri (Türkçe) | Çoklu dilde tasarım desenleri | ⭐3346 | [GitHub](https://github.com/tasarim-desenleri-turkce-kaynak) |
-| React Türkçe Kaynak | React.js Türkçe öğrenme kaynağı | ⭐689 | [GitHub](https://github.com/react-turkce-kaynak) |
-| Python Notlarım | Türkçe Python ders notları | ⭐373 | [GitHub](https://github.com/python-notlarim) |
+| Türkçe Kaynaklar | Özenle seçilmiş Türkçe kaynaklar listesi | ⭐2522 | [GitHub](https://github.com/fatihacet/turkcekaynaklar-com) |
+| Tasarım Desenleri (Türkçe) | Çoklu dilde tasarım desenleri | ⭐3346 | [GitHub](https://github.com/yusufyilmazfr/tasarim-desenleri-turkce-kaynak) |
+| React Türkçe Kaynak | React.js Türkçe öğrenme kaynağı | ⭐689 | [GitHub](https://github.com/orcuntuna/react-turkce-kaynak) |
+| Python Notlarım | Türkçe Python ders notları | ⭐373 | [GitHub](https://github.com/fuatbeser/python-notlarim) |
 | Python Belgeleri | YazBel Türkçe Python dokümantasyonu | ⭐551 | [GitHub](https://github.com/python) |
-| Flutter Full Learn | Sıfırdan Flutter (Türkçe video) | ⭐303 | [GitHub](https://github.com/Flutter-Full-Learn) |
+| Flutter Full Learn | Sıfırdan Flutter (Türkçe video) | ⭐303 | [GitHub](https://github.com/VB10/Flutter-Full-Learn) |
 | KIP Programlama Dili | Türkçe gramer tabanlı programlama dili | ⭐882 | [GitHub](https://github.com/kip) |
-| Jargon.ist | Bilgisayar bilimleri jargon sözlüğü | ⭐300 | [GitHub](https://github.com/jargon.ist) |
+| Jargon.ist | Bilgisayar bilimleri jargon sözlüğü | ⭐300 | [GitHub](https://github.com/jargonist/jargon.ist) |
 
 ---
 
@@ -161,7 +161,6 @@
 
 | Platform | Açıklama | Link |
 |---|---|---|
-| **r/veYakinMonitör** | Türkçe yazılım subredditi (5k+ üye) | [Reddit](https://reddit.com/r/veYakinMonitör) |
 | **r/CodingTR** | Türkçe kodlama topluluğu | [Reddit](https://reddit.com/r/CodingTR) |
 | **Yazılım Geliştiricileri** | Telegram: 15k+ üye | [Telegram](https://t.me/yazilimcilar) |
 | **Frontend Türkiye** | Telegram: 5k+ üye | [Telegram](https://t.me/frontendturkiye) |
@@ -178,12 +177,7 @@
 
 | İsim | Tür | Açıklama | Link |
 |---|---|---|---|
-| **Fatih Kadir Akın** | Blog | JavaScript, Node.js, React, açık kaynak | [Blog](https://f.kafalı.org/) |
 | **Eser Özvataf** | Blog | Full-stack, açık kaynak, girişim | [Blog](https://eser.live/) |
-| **Arda Kılıçdağı** | Blog | Python, DevOps, mimari | [Blog](https://arda.kilicdagi.com/) |
-| **Kodluyoruz Podcast** | Podcast | Türkçe yazılım sohbetleri | [Site](https://podcast.kodluyoruz.org/) |
-| **DevPod** | Podcast | Geliştirici röportajları | [Site](https://devpod.com.tr/) |
-| **Patika.dev Topluluk Blog** | Blog | Türkçe teknik makaleler | [Site](https://community.patika.dev/) |
 | **Arin Yazılım** | YouTube | Yazılım eğitimleri (500K+ abone) | [YouTube](https://youtube.com/@arinyazilim) |
 | **Prototurk** | YouTube | Web geliştirme (400K+ abone) | [YouTube](https://youtube.com/@prototurk) |
 | **Adem Ilter** | YouTube | Backend, sistem (200K+ abone) | [YouTube](https://youtube.com/@ademilter) |
@@ -197,9 +191,7 @@
 |---|---|---|
 | **Kodluyoruz** | Bootcamp + iş bulma desteği | [Site](https://kodluyoruz.org/) |
 | **Patika.dev** | Ücretsiz eğitim + iş garantisi | [Site](https://patika.dev/) |
-| **Türkçe Remote İşler** | Uzaktan çalışma ilanları | [Site](https://trremote.com/) |
 | **İşin Olsun** | Türkiye yazılım iş ilanları | [Site](https://isinolsun.com/) |
-| **Türk Startup Jobs** | Girişim iş ilanları | [Site](https://turkstartupjobs.com/) |
 | **Indeed Türkiye** | Türkiye iş ilanları | [Site](https://tr.indeed.com/) |
 | **LinkedIn Türkiye** | Profesyonel ağ | [Site](https://linkedin.com/) |
 | **Kariyer.net** | Türkiye'nin en büyük iş platformu | [Site](https://kariyer.net/) |
@@ -210,18 +202,16 @@
 
 | Proje | Açıklama | ⭐ | Link |
 |---|---|---|---|
-| **Zemberek-NLP** | Türkçe doğal dil işleme kütüphanesi | ⭐1332 | [GitHub](https://github.com/andrewkiluk/tr-zemberek) |
-| **Yargı MCP** | Türk hukuk veritabanları için MCP sunucusu | ⭐990 | [GitHub](https://github.com/yargi-mcp) |
+| **Zemberek-NLP** | Türkçe doğal dil işleme kütüphanesi | ⭐1332 | [GitHub](https://github.com/ahmetaa/zemberek-nlp) |
+| **Yargı MCP** | Türk hukuk veritabanları için MCP sunucusu | ⭐990 | [GitHub](https://github.com/saidsurucu/yargi-mcp) |
 | **KIP** | Türkçe gramer tabanlı programlama dili | ⭐882 | [GitHub](https://github.com/kip) |
-| **BorsaPy** | Türkiye finans piyasaları Python kütüphanesi | ⭐660 | [GitHub](https://github.com/borsapy) |
-| **Borsa MCP** | BIST + ABD borsa verileri MCP sunucusu | ⭐601 | [GitHub](https://github.com/borsa-mcp) |
+| **BorsaPy** | Türkiye finans piyasaları Python kütüphanesi | ⭐660 | [GitHub](https://github.com/saidsurucu/borsapy) |
+| **Borsa MCP** | BIST + ABD borsa verileri MCP sunucusu | ⭐601 | [GitHub](https://github.com/saidsurucu/borsa-mcp) |
 | **ihalent** | Türk kamu ihale sonuç istihbaratı: EKAP sonuç ilanlarından firma geçmişi, kırım dağılımı ve rekabet metrikleri (CLI + MCP) | - | [GitHub](https://github.com/gulmezeren2-byte/ihalent) |
-| **Turkish BERT** | DBMDZ Türkçe BERT modelleri | ⭐576 | [GitHub](https://github.com/turkish-bert) |
-| **SplitWire-Turkey** | İnternet kısıt aşma aracı | ⭐568 | [GitHub](https://github.com/SplitWire-Turkey) |
-| **Tasarım Desenleri** | Çoklu dilde tasarım desenleri (Türkçe) | ⭐3346 | [GitHub](https://github.com/tasarim-desenleri-turkce-kaynak) |
-| **TurkishNLP** | İTÜ Türkçe NLP pipeline'ı | ⭐300+ | [GitHub](https://github.com/olcaytaner/TurkishNLP) |
+| **Turkish BERT** | DBMDZ Türkçe BERT modelleri | ⭐576 | [GitHub](https://github.com/stefan-it/turkish-bert) |
+| **SplitWire-Turkey** | İnternet kısıt aşma aracı | ⭐568 | [GitHub](https://github.com/cagritaskn/SplitWire-Turkey) |
+| **Tasarım Desenleri** | Çoklu dilde tasarım desenleri (Türkçe) | ⭐3346 | [GitHub](https://github.com/yusufyilmazfr/tasarim-desenleri-turkce-kaynak) |
 | **Alican Kiraz** | Türkçe LLM'ler: Mihenk (finans), Kızagan (reasoning), Omni | - | [HF](https://huggingface.co/AlicanKiraz0) |
-| **Tengra** | Cross-platform AI workspace | ⭐8 | [GitHub](https://github.com/TengraStudio/tengra) |
 | **xfilter** | X.com onaylı hesap filtreleme eklentisi | - | [GitHub](https://github.com/alztrk/xfilter) |
 
 ---
@@ -230,11 +220,10 @@
 
 | Araç | Açıklama | Dil | Link |
 |---|---|---|---|
-| **Zemberek-NLP** | Türkçe morfoloji, imla, kök bulma | Java | [GitHub](https://github.com/andrewkiluk/tr-zemberek) |
-| **TurkishStemmer** | Türkçe kök bulma algoritması | Python | [GitHub](https://github.com/otus-io/TurkishStemmer) |
-| **BorsaPy** | BIST, forex, kripto, fon verileri | Python | [GitHub](https://github.com/borsapy) |
-| **Borsa MCP** | MCP üzerinden borsa verileri | Python | [GitHub](https://github.com/borsa-mcp) |
-| **Yargı MCP** | Türk hukuk veritabanları MCP | Python | [GitHub](https://github.com/yargi-mcp) |
+| **Zemberek-NLP** | Türkçe morfoloji, imla, kök bulma | Java | [GitHub](https://github.com/ahmetaa/zemberek-nlp) |
+| **BorsaPy** | BIST, forex, kripto, fon verileri | Python | [GitHub](https://github.com/saidsurucu/borsapy) |
+| **Borsa MCP** | MCP üzerinden borsa verileri | Python | [GitHub](https://github.com/saidsurucu/borsa-mcp) |
+| **Yargı MCP** | Türk hukuk veritabanları MCP | Python | [GitHub](https://github.com/saidsurucu/yargi-mcp) |
 | **Autocorrect** | Türkçe yazım düzeltme | Python | [GitHub](https://github.com/autocorrect) |
 | **Türkçe Dil Bilgisi Düzeltici** | mBART50 ile grammar correction | Python | [HF](https://huggingface.co/yeniguno/mbart50-turkish-grammar-corrector) |
 
@@ -244,8 +233,8 @@
 
 | Araç | Açıklama | Link |
 |---|---|---|
-| **BorsaPy** | BIST hisse, forex, kripto, enflasyon verileri (660★) | [GitHub](https://github.com/borsapy) |
-| **Borsa MCP** | MCP ile borsa verileri (601★) | [GitHub](https://github.com/borsa-mcp) |
+| **BorsaPy** | BIST hisse, forex, kripto, enflasyon verileri (660★) | [GitHub](https://github.com/saidsurucu/borsapy) |
+| **Borsa MCP** | MCP ile borsa verileri (601★) | [GitHub](https://github.com/saidsurucu/borsa-mcp) |
 | **Mihenk LLM v2 35B** | Türkçe finansal model | [HF](https://huggingface.co/AlicanKiraz0/Mihenk-LLM-v2-35B-A3B-Turkish-Financial-Model) |
 | **Turkish Finance Instructions** | Finans soru-cevap dataseti | [HF](https://huggingface.co/datasets/Dbmaxwell/turkish-finance-instruction-dataset) |
 
@@ -260,7 +249,6 @@
 | **BTK Akademi** | Türkçe teknik eğitimler (100+ kurs) | Ücretsiz | [Site](https://btkakademi.gov.tr/) |
 | **Akbank Gençlik Akademisi** | Yazılım, finans, girişim eğitimleri | Ücretsiz | [Site](https://akbankgenclikakademisi.com/) |
 | **Turkcell Geleceği Yazanlar** | Mobil, web, siber güvenlik eğitimleri | Ücretsiz | [Site](https://gelecegiyazanlar.turkcell.com.tr/) |
-| **İstanbul Kodluyor** | Üniversite öğrencilerine kodlama atölyeleri | Ücretsiz | [Site](https://istanbulkodluyor.istanbul/) |
 | **Arin Yazılım** | YouTube üzerinden yazılım eğitimleri | Ücretsiz | [YouTube](https://youtube.com/@arinyazilim) |
 
 ---
@@ -270,7 +258,7 @@
 | Proje | Açıklama | ⭐ | Link |
 |---|---|---|---|
 | **React Türkçe Çeviri** | React dokümantasyon çevirisi | ⭐541 | [GitHub](https://github.com/react) |
-| **JavaScript.info Türkçe** | Modern JavaScript Tutorial | ⭐365 | [GitHub](https://github.com/tr.javascript.info) |
+| **JavaScript.info Türkçe** | Modern JavaScript Tutorial | ⭐365 | [GitHub](https://github.com/javascript-tutorial/tr.javascript.info) |
 | **Python Belgeleri** | YazBel Python dokümantasyonu | ⭐551 | [GitHub](https://github.com/python) |
 
 ---
